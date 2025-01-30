@@ -8,7 +8,7 @@
 #include "driver/gpio.h"
 
 #define LOG_TAG "wamr"
-#define LED_GPIO 8  // On-board RGB LED is connected to GPIO 8
+#define LED_GPIO 8  
 
 static void wasm_gpio_set_level(wasm_exec_env_t exec_env, int32_t pin, int32_t level) {
     gpio_set_level((gpio_num_t)pin, level);
