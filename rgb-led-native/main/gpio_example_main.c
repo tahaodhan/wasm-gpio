@@ -15,13 +15,15 @@ void app_main(void) {
     io_conf.pull_up_en = 0;
     gpio_config(&io_conf);
 
+    int counter = 0;
     while (1) {
         printf("Turning LED ON\n");
         gpio_set_level(LED_GPIO, 1);
-        vTaskDelay(pdMS_TO_TICKS(1000));
+        
 
         printf("Turning LED OFF\n");
         gpio_set_level(LED_GPIO, 0);
-        vTaskDelay(pdMS_TO_TICKS(1000));
+        
+        counter++;
     }
 }

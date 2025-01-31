@@ -1,0 +1,3 @@
+/home/todhan/esp32/testing-functions/wasm-gpio/rgb-led-wasm/gpio-run/build/CMakeFiles/binarydump.dir
+/home/todhan/esp32/testing-functions/wasm-gpio/rgb-led-wasm/gpio-run/build/CMakeFiles/edit_cache.dir
+/home/todhan/esp32/testing-functions/wasm-gpio/rgb-led-wasm/gpio-run/build/CMakeFiles/rebuild_cache.dir

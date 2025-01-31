@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/todhan/esp32/testing-functions/wasm-gpio/rgb-led-wasm/build/CMakeFiles/bootloader
+/home/todhan/esp32/testing-functions/wasm-gpio/rgb-led-wasm/build/CMakeFiles/bootloader.rule
+/home/todhan/esp32/testing-functions/wasm-gpio/rgb-led-wasm/build/CMakeFiles/bootloader-complete.rule
+/home/todhan/esp32/testing-functions/wasm-gpio/rgb-led-wasm/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/todhan/esp32/testing-functions/wasm-gpio/rgb-led-wasm/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/todhan/esp32/testing-functions/wasm-gpio/rgb-led-wasm/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/todhan/esp32/testing-functions/wasm-gpio/rgb-led-wasm/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/todhan/esp32/testing-functions/wasm-gpio/rgb-led-wasm/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/todhan/esp32/testing-functions/wasm-gpio/rgb-led-wasm/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/todhan/esp32/testing-functions/wasm-gpio/rgb-led-wasm/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
